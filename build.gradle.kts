@@ -18,12 +18,12 @@ dependencies {
 
     implementation("org.litote.kmongo:kmongo:4.6.0")
     implementation("org.litote.kmongo:kmongo-coroutine:4.6.0")
-    implementation("org.cufy:mangaka:1.0.0-beta.2")
+    implementation("org.cufy:mangaka:1.0.0")
 
     implementation("com.graphql-java:graphql-java:18.1")
-    implementation("org.cufy:kaguya:1.0.0-beta.2")
+    implementation("org.cufy:kaguya:1.0.0")
 
-    implementation("org.cufy:openperm-kt:1.0.0-beta.0")
+    implementation("org.cufy:openperm-kt:1.0.0")
 
     testImplementation(kotlin("test"))
 }
